@@ -1,0 +1,327 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+  <OperationRequest>
+    <RequestId>0248c9a2-c2d7-46eb-a757-4a7cf3daa6a0</RequestId>
+    <Arguments>
+      <Argument Name="Keywords" Value="pino"></Argument>
+      <Argument Name="Operation" Value="ItemSearch"></Argument>
+      <Argument Name="ResponseGroup" Value="Offers,ItemAttributes"></Argument>
+      <Argument Name="SearchIndex" Value="Books"></Argument>
+      <Argument Name="Service" Value="AWSECommerceService"></Argument>
+      <Argument Name="Timestamp" Value="2022-03-13T03:07:50Z"></Argument>
+      <Argument Name="Version" Value="2009-03-31"></Argument>
+    </Arguments>
+    <RequestProcessingTime>12.3488240242</RequestProcessingTime>
+  </OperationRequest>
+  <Items>
+    <Request>
+      <IsValid>True</IsValid>
+      <ItemSearchRequest>
+        <Keywords>pino</Keywords>
+        <ResponseGroup>Offers</ResponseGroup>
+        <ResponseGroup>ItemAttributes</ResponseGroup>
+        <SearchIndex>books</SearchIndex>
+      </ItemSearchRequest>
+    </Request>
+    <Item>
+      <ASIN>B0988VV1B3</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/61YPqJCQgHS._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/61YPqJCQgHS._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/61YPqJCQgHS._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Édition en Anglais</Author>
+        <NumberOfPages>110</NumberOfPages>
+        <ISBN>B0988VV1B3</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>B0988VV1B3</EAN>
+        <EANList>
+          <EANListElement>B0988VV1B3</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Pino: It's A Pino Thing You Wouldn't Understand - Pino Name Custom Gift Planner Calendar Notebook Journal</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>839</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 8,39</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>B08R7RXT1S</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/51GwQy5GoaL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/51GwQy5GoaL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/51GwQy5GoaL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Édition en Allemand</Author>
+        <NumberOfPages>120</NumberOfPages>
+        <ISBN>B08R7RXT1S</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>B08R7RXT1S</EAN>
+        <EANList>
+          <EANListElement>B08R7RXT1S</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Pino: Personalisiertes Vornamen Notizbuch / Tagebuch - 120 Seiten - Punkteraster - Format 6x9 ca. DIN A5</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>587</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 5,87</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>8817088064</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/91DDI3tmVGL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/91DDI3tmVGL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/91DDI3tmVGL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Édition en Italien</Author>
+        <NumberOfPages>255</NumberOfPages>
+        <ISBN>8817088064</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>8817088064</EAN>
+        <EANList>
+          <EANListElement>8817088064</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Pino Daniele. Qualcosa arriverà</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>2623</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 26,23</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>2343024979</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/71rjhQIZgCL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/71rjhQIZgCL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/71rjhQIZgCL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Pino Crivellaro</Author>
+        <NumberOfPages>238</NumberOfPages>
+        <ISBN>2343024979</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2343024979</EAN>
+        <EANList>
+          <EANListElement>2343024979</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Burundi mon amour</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>2500</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 25,00</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>2267016680</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/51HZ54342KL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/51HZ54342KL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/51HZ54342KL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Pino Cacucci et Benito Merlino</Author>
+        <NumberOfPages>125</NumberOfPages>
+        <ISBN>2267016680</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>2267016680</EAN>
+        <EANList>
+          <EANListElement>2267016680</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>Mastruzzi enquête</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>1420</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 14,20</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+    <Item>
+      <ASIN>8491095810</ASIN>
+      <SmallImage>
+        <URL>https://m.media-amazon.com/images/I/616jmQ60kZL._SL75_.jpg</URL>
+        <Height Units="pixels">74</Height>
+        <Width Units="pixels">75</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://m.media-amazon.com/images/I/616jmQ60kZL._SL160_.jpg</URL>
+        <Height Units="pixels">157</Height>
+        <Width Units="pixels">160</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://m.media-amazon.com/images/I/616jmQ60kZL._SL500_.jpg</URL>
+        <Height Units="pixels">492</Height>
+        <Width Units="pixels">500</Width>
+      </LargeImage>
+      <ItemAttributes>
+        <Author>Édition en Espagnol</Author>
+        <NumberOfPages>416</NumberOfPages>
+        <ISBN>8491095810</ISBN>
+        <Binding>Broché</Binding>
+        <EAN>8491095810</EAN>
+        <EANList>
+          <EANListElement>8491095810</EANListElement>
+        </EANList>
+        <ProductGroup>Book</ProductGroup>
+        <Title>La estrella de quince puntas</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>2100</Amount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <FormattedPrice>EUR 21,00</FormattedPrice>
+        </LowestNewPrice>
+        <TotalNew>1</TotalNew>
+        <TotalUsed>0</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+        </Offer>
+      </Offers>
+    </Item>
+  </Items>
+</ItemSearchResponse>
